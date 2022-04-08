@@ -1,0 +1,141 @@
+*{
+    padding:0;
+    margin: 0;
+    border:0;
+}
+
+.content{
+    background-color: black;
+    display: grid;
+    grid-template-columns: 13% 12% 12% 12% 12% 12% 12% 13%;
+    
+}
+.content-box1{
+    background-color: black;
+    text-align: center;
+    align-items: center;
+    padding: 10px;
+    grid-column: 1/9;
+}
+
+.content-box2{
+    color: bisque;
+    border-top: 5px solid bisque;
+    border-bottom: 5px solid bisque;
+    padding: 10px 0;
+}
+.content-box3{
+    color: bisque;
+    border-top: 5px solid bisque;
+    border-bottom: 5px solid bisque;
+    padding: 10px 0;
+}
+
+.content-box4{
+    color: bisque;
+    border-top: 5px solid bisque;
+    border-bottom: 5px solid bisque;
+    padding: 10px 0;
+}
+
+.content-box4 a{
+    color: bisque;
+    text-decoration: none;
+}
+
+.content-box5{
+    color: bisque;
+    border-top: 5px solid bisque;
+    border-bottom: 5px solid bisque;
+    padding: 10px 0;
+}
+.content-box5 a{
+    color: bisque;
+    text-decoration: none;
+}
+
+.content-box6{
+    color: bisque;
+    border-top: 5px solid bisque;
+    border-bottom: 5px solid bisque;
+    padding: 10px 0;
+}
+
+.content-box6 a{
+    color: bisque;
+    text-decoration: none;
+}
+
+.content-box7{
+    color: bisque;
+    border-top: 5px solid bisque;
+    border-bottom: 5px solid bisque;
+    padding: 10px 0;
+}
+
+.content-box7 a{
+    color: bisque;
+    text-decoration: none;
+}
+
+.content-box70{
+    color: bisque;
+    border-top: 5px solid bisque;
+    border-bottom: 5px solid bisque;
+    padding: 10px 0;
+}
+
+.content-box8{
+    color: bisque;
+    border-top: 5px solid bisque;
+    border-bottom: 5px solid bisque;
+    padding: 10px 0;
+}
+.img1{
+    width:70%; 
+    height:70%;
+    padding: 0;
+}
+
+/*
+.content-box9{
+    background-color: black;
+}
+*/
+.content-box10{
+    grid-column: 2/8;
+    padding: 10px 0;
+}
+
+.img2{
+    
+    width:100%; 
+    height:100%;
+}
+
+.content-box14{
+    color: bisque;
+    padding: 10px 0;
+}
+
+.content-box17{
+    color: bisque;
+    padding: 10px 0;
+}
+
+.content-box21{
+    color: bisque;
+    font-family: sans-serif;
+    grid-column: 2/8;
+    padding: 10px 0;
+}
+.content-box22{
+    grid-column: 1/9;
+    padding: 10px 0;
+}
+.content-box23{
+    grid-column: 1/9;
+    border-top: 5px solid bisque;
+    color: bisque;
+    padding: 10px 10px;
+}
